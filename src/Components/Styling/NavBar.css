@@ -1,0 +1,29 @@
+.navBar{
+    font-size: large;
+    font-weight: bold;
+    font-size: medium;
+    background-color: burlywood;
+    /* margin-left: 1px; */
+    display: flex;
+   /* margin-bottom: 10px;*/
+}
+#l1:hover{
+    text-decoration: underline;
+}
+#l2:hover{
+    text-decoration: underline;
+}
+#l3:hover{
+    text-decoration: underline;
+}
+#l4:hover{
+    text-decoration: underline;
+}
+#l1,#l2,#l3,#l4{
+    color: black;
+}
+.admin{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}

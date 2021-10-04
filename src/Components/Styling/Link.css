@@ -1,0 +1,24 @@
+.linkButton{
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    border: 1px  solid;
+
+
+}
+.linkButton:hover{
+    color: black;
+}
+.link{
+    justify-content: center;
+    /* background-color: gray; */
+}
+.link:hover{
+    background-color: gray;
+}
+.tab{
+    border: solid black 1px;
+}
+table,tr,td{
+    border: solid black 1px;
+}

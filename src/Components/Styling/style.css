@@ -1,0 +1,20 @@
+#itemcard{
+    text-align: center;
+}
+#itemcard:hover{
+    border: solid 5px black;
+    border-radius: 30px;
+    text-align: center;
+}
+.description{
+    font-size: small;
+    font-weight: 600;
+    color: rebeccapurple;
+}
+.price{
+    font-weight: 600;
+    color:royalblue;
+}
+.title{
+    color: royalblue;
+}

@@ -1,0 +1,93 @@
+.header{
+    /* margin-top: 5px; */
+    display: flex;
+    align-items: center;
+    /* background-image: url('Images/backgroundImage.jpg'); */
+    background-color: whitesmoke;
+    position: sticky;
+    top:0;
+    z-index: 100;
+    
+    }
+    .headLogo{
+    display:flex;
+    height: 30px;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* float: left; */
+    }
+    .basLogo{
+    display:flex;
+    height: 30px;
+    width: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+    .icon{
+    display: flex;
+    }
+    .location{
+    display: flex;
+    /* float:left; */
+    font-size: 15px;
+    font-weight: bold;
+    height: auto;
+    margin-left: 0px;
+    display: flex;
+    flex: 1;
+    }
+    .actions{
+    /* float: right; */
+    /* margin-left: 500px; */
+    display: flex;
+    flex:1;
+    /* align-items: flex-end; */
+    align-items: center;
+    justify-content: flex-end;
+    }
+    .headlogin{
+    color: black;
+    font-weight: bolder;
+    /* display: flex; */
+    justify-content: center;
+    }
+    .headlogin:hover{
+    text-decoration: underline;
+    color: black;
+    background-color: lightslategrey;
+    }
+    .headcart{
+    color: black;
+    font-weight: bolder;
+    }
+    .cart:hover{
+    text-decoration: underline;
+    color: black;
+    background-color: lightslategrey;
+    }
+    .name{
+    color: black;
+    font-weight: bolder;
+    /* display: flex; */
+    justify-content: center;
+    margin-left: 10px;
+    }
+    .headsell
+    {
+    color: black;
+    font-weight: bolder;
+    }
+    .headsell:hover{
+    text-decoration: underline;
+    color: black;
+    background-color: lightslategrey;
+    }
+    .welnote{
+    font-family:cursive;
+    margin-left: 0px;
+    margin-right: 2px;
+    font-weight: bolder;
+    color: #33006F;
+    
+    }
